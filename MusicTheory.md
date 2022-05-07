@@ -1,35 +1,38 @@
 **Music Theory**
 ===
 
-- Basic Music Theory
+- [I. Basic Music Theory](#i-basic-music-theory)
 
-  * Notes
+  * [I.a Notes](#ia-notes)
 
-  * Scales
+  * I.b Scales
 
-  * Chords
+  * I.c Chords
 
-  * Chord Progressions
+  * I.d Chord Progressions
 
-- Structure
+- II. Structure
 
-  * Key Factors
+  * II.a Key Factors
 
-  * Basslines
+  * II.b Basslines
 
-  * Melodies
+  * II.c Melodies
   
-  * Simple Harmonies
+  * II.d Simple Harmonies
  
-- Intermediate Music Theory
+- III. Intermediate Music Theory
   
-  * Modes
+  * III.a Modes
   
-  * Modal Mixture
+  * III.b  Modal Mixture
   
-- Famous Real World Examples
+- IV. Famous Real World Examples
 
-I.I. Notes
+I. Basic Music Theory
+===
+
+I.a Notes
 ---
 
 The basic notes of Music are:
@@ -42,5 +45,5 @@ Don't let the number of names fool you. Music isn't all about the individual nam
 
 *(image used and modified from: https://www.musikalessons.com/blog/2016/08/piano-keys-chart/)*
 
-And.. thats pretty much all you need to know about notes really. You only need to know that there is a difference from one note to another.
+And.. thats pretty much all you need to know about notes really. Other than that, you only need to know that there is a difference from one note to another.
 
