@@ -2,19 +2,29 @@
 ===
 
 I. Basic Music Theory
+
   I.I Notes
+
   I.II Scales
+
   I.III Chords
+
   I.IV Chord Progressions
 
 II. Structure
+
   II.I Key Factors
+
   II.II Basslines
+
   II.III Melodies
+  
   II.IV Simple Harmonies
  
 III. Intermediate Music Theory
+  
   III.I Modes
+  
   III.II Modal Mixture
   
 IV. Famous Real World Examples
