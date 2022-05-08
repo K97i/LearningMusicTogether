@@ -1,11 +1,11 @@
-**Music Theory**
+Music Theory
 ===
 
 - [Youtube Channels you should subscribe to](#youtube-channels-you-should-subscribe-to)
 
 - [I. Basic Music Theory](#i-basic-music-theory)
 
-  * [I.a Notes](#ia-notes)
+  * [I.a Notes](#a-notes)
 
   * I.b Scales
 
@@ -50,7 +50,7 @@ Youtube Channels you should subscribe to
 I. Basic Music Theory
 ===
 
-I.a Notes
+a. Notes
 ---
 
 The basic notes of Music are:
@@ -65,8 +65,33 @@ Don't let the number of names fool you. Music isn't all about the individual nam
 
 Commonly, these are also combined with numbers on the side. These numbers correspond to **it's octave.** 
 
-Take for example: C4 also known as middle C.
+Take for example: A4
 
-https://user-images.githubusercontent.com/105120272/167276321-064cb7d9-a4ce-4391-bbf0-2761816b2f3e.mp4
+https://user-images.githubusercontent.com/105120272/167279079-35f0fac0-2bb4-476b-9269-504863c9e0d5.mp4
 
+This note is most used for tuning actual pianos.
 
+Scales
+---
+
+Now you know the basic notes, let's move on to scales.
+
+You'll find that the most common types of scales are the **Major** and **Minor** scales. But what are these scales?
+
+Let's start with the **Major** scale.
+
+**A major scale is a type of scale based on the white notes from C-C.** If you lay out a C Major scale in a piano roll or play it on an actual piano, you will see that it is quite easy to play, as it is just the white keys. 
+
+https://user-images.githubusercontent.com/105120272/167279413-e039b28f-a161-489d-936e-cbdb1be19277.mp4
+
+Based on this, if you are using a *Digital Audio Workstation* (DAW)
+
+**Draw the white notes from C to C:**
+
+![DrawCtoC](https://user-images.githubusercontent.com/105120272/167279835-91f9436a-32d8-4b18-ad5f-b60e08ad20e5.gif)
+
+**Then move all of the notes to whichever root note you want:**
+
+![MoveCtoC](https://user-images.githubusercontent.com/105120272/167279892-c8a5fe01-bf13-422e-8e11-a813e2f21410.gif)
+
+and with that, ***we have just made an A Major scale.*** (Called that because the first note is now A.)
