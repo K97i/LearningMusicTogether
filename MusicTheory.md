@@ -30,15 +30,15 @@ Table of Contents
 
       + [Four Chords of Pop](#the-four-chords-of-pop)
 
-- II. Structure
+- [II. Structure](#ii-structure)
 
-  * II.a Key Factors
+  * [II.a Key Factors](#a-key-factors)
 
-  * II.b Basslines
+  * [II.b Basslines](b-basslines)
 
-  * II.c Melodies
+  * [II.c Melodies](c-melodies)
   
-  * II.d Simple Harmonies
+  * [I.d Simple Harmonies](#d-simple-harmonies)
  
 - III. Intermediate Music Theory
   
@@ -306,4 +306,82 @@ Now thats a Chord Progression. You don't have to stick to the Four Chords of Pop
 II. Structure
 ===
 
-(WIP)
+a. Key Factors
+---
+
+The key factors to a good base pattern are:
+
+**Chords** ✅
+
+Self-explanatory, we just discussed this.
+
+**Bassline** ❌
+
+Basslines cover the lower section of the spectogram. If you listen to EDM, then you should at least be familiar with this.
+
+**Melody** ❌
+
+The Melody, depending on which genre you are writing for, could be the main thing your listeners pick up from your song. Most, if not, all pop songs focus on the melody.
+
+
+#### [⬆️ Return to Table of Contents](#table-of-contents)
+
+b. Bassline
+===
+
+Lets talk about the bassline first.
+
+In [some songs,](https://www.youtube.com/watch?v=rY0WxgSXdEE) the bassline is the one you remember. 
+
+How to make one:
+
+Start with your base chord progression (using the B major chord progression from last chapter):
+
+https://user-images.githubusercontent.com/105120272/167285880-2518ecd6-3695-4ab9-983f-5c4d7a7b98c0.mp4
+
+Select the root notes
+
+![image](https://user-images.githubusercontent.com/105120272/167286718-cc0d867c-1dd3-49f8-935e-140da6bdafd1.png)
+
+Copy and paste
+
+![image](https://user-images.githubusercontent.com/105120272/167286726-acd2bb8a-74b3-4dca-a50f-04bcc888e341.png)
+
+Drop it down an octave (in FL Studio, the DAW I'm using, its Ctrl+ArrowKeys. It might be different for you.)
+
+![image](https://user-images.githubusercontent.com/105120272/167286767-fdf66349-8f38-4b05-a2e5-d1c58625118f.png)
+
+**You now have the root bass notes.**
+
+But if we just keep it like this, it would get boring fast. So, to make ear candy, add some **groove** to your bassline.
+
+It could be any groove you like. Historical, random, **as long as you like it, it's good.**
+
+I will make my own groove.
+
+https://user-images.githubusercontent.com/105120272/167287016-86e8e3e6-6003-424d-a72a-87a78d992c08.mp4
+
+Since we are using a piano, we could even drop it down another octave to make it more "bass-y"
+
+https://user-images.githubusercontent.com/105120272/167287124-cfae43c9-be2e-4350-8cf6-5d4e51ca5728.mp4
+
+
+c. Melodies
+===
+
+To make a melody "catchy", make it musically repetitive and simple. Remember to stay in scale. In fact, you can use another scale called a "pentatonic scale"
+
+Major Pentatonic:
+
+![image](https://user-images.githubusercontent.com/105120272/167287304-d0ffb991-af4f-4458-aa19-515a406e3074.png)
+
+Minor Pentatonic:
+
+![image](https://user-images.githubusercontent.com/105120272/167287323-7ec098ef-9ffb-446b-9776-4b79599368f9.png)
+
+Both Major and Minor scales have their Pentatonic version.
+
+You can make a Pentatonic Scale from the Major and Minor Scales **by removing the second and sixth notes.**
+
+A rule with melodies to keep in mind, with Pop anyway, is that, rhythmically, its either [a bit complex](https://youtu.be/TUVcZfQe-Kw?t=5), or [ridiculously simple](https://youtu.be/6g6g2mvItp4?t=36)
+
