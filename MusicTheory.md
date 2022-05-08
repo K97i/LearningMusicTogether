@@ -34,11 +34,11 @@ Table of Contents
 
   * [II.a Key Factors](#a-key-factors)
 
-  * [II.b Basslines](b-basslines)
+  * [II.b Basslines](#b-bassline)
 
-  * [II.c Melodies](c-melodies)
+  * [II.c Melodies](#c-melodies)
   
-  * [I.d Simple Harmonies](#d-simple-harmonies)
+  * I.d Simple Harmonies
  
 - III. Intermediate Music Theory
   
@@ -326,6 +326,7 @@ The Melody, depending on which genre you are writing for, could be the main thin
 
 #### [⬆️ Return to Table of Contents](#table-of-contents)
 
+
 b. Bassline
 ===
 
@@ -364,6 +365,9 @@ https://user-images.githubusercontent.com/105120272/167287016-86e8e3e6-6003-424d
 Since we are using a piano, we could even drop it down another octave to make it more "bass-y"
 
 https://user-images.githubusercontent.com/105120272/167287124-cfae43c9-be2e-4350-8cf6-5d4e51ca5728.mp4
+
+
+#### [⬆️ Return to Table of Contents](#table-of-contents)
 
 
 c. Melodies
