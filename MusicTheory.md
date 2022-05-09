@@ -38,7 +38,7 @@ Table of Contents
 
   * [II.c Melodies](#c-melodies)
   
-  * I.d Simple Harmonies
+  * [I.d Simple Harmonies](#d-simple-harmonies)
  
 - III. Intermediate Music Theory
   
@@ -387,5 +387,28 @@ Both Major and Minor scales have their Pentatonic version.
 
 You can make a Pentatonic Scale from the Major and Minor Scales **by removing the second and sixth notes.**
 
-A rule with melodies to keep in mind, with Pop anyway, is that, rhythmically, its either [a bit complex](https://youtu.be/TUVcZfQe-Kw?t=5), or [ridiculously simple](https://youtu.be/6g6g2mvItp4?t=36)
+A rule with melodies to keep in mind, with Pop anyway, is that, rhythmically, its either [a bit complex](https://youtu.be/TUVcZfQe-Kw?t=5), or [ridiculously simple.](https://youtu.be/6g6g2mvItp4?t=36) Like basslines, grooves are also important to melodies. Take for example, Alan Walker's Fade:
 
+
+https://user-images.githubusercontent.com/105120272/167284717-43e53f1b-fd0c-4eb0-b51e-f67016355b1c.mp4
+
+The part near the end of some notes in the melody are an extra groove (swing).
+
+To learn more on how to make melodies, watch these two videos:
+
+[![image](https://user-images.githubusercontent.com/105120272/167396653-fd6492bd-1ee5-4464-842b-6e90bd0d5e88.png)](https://www.youtube.com/watch?v=OEIk3bJtTNw)
+
+[![image](https://user-images.githubusercontent.com/105120272/167396856-809748a9-0a12-4527-a82f-51333b449d19.png)](https://www.youtube.com/watch?v=cb6FpvNHEJM)
+
+
+#### [⬆️ Return to Table of Contents](#table-of-contents)
+
+
+d. Simple Harmonies
+===
+
+Here's a simple trick to have an easy harmony on your melody:
+
+Duplicate your melody, and move it 7 notes up.
+
+Play it. Isn't it nicer harmonically?
