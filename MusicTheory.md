@@ -311,15 +311,15 @@ a. Key Factors
 
 The key factors to a good base pattern are:
 
-**Chords** ✅
+**Chords** 
 
-Self-explanatory, we just discussed this.
+Self-explanatory.
 
-**Bassline** ❌
+**Bassline** 
 
 Basslines cover the lower section of the spectogram. If you listen to EDM, then you should at least be familiar with this.
 
-**Melody** ❌
+**Melody** 
 
 The Melody, depending on which genre you are writing for, could be the main thing your listeners pick up from your song. Most, if not, all pop songs focus on the melody.
 
